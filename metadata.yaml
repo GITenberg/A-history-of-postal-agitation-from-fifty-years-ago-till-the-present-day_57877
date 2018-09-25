@@ -1,11 +1,16 @@
 _repo: A-history-of-postal-agitation-from-fifty-years-ago-till-the-present-day_57877
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57877-h/images/cover.jpg
 creator:
   author:
     agent_name: Swift, H. G.
     gutenberg_agent_id: '49667'
     url: http://www.gutenberg.org/2009/agents/49667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57877#A-history-of-postal-agitation-from-fifty-years-ago-till-the-present-day
 gutenberg_issued: '2018-09-09'
 gutenberg_type: Text
 identifiers:
